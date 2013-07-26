@@ -1,1 +1,1 @@
-require("./test-vumi-go-skeleton.js")
+require("./test-go-contact-extras-editor.js")
